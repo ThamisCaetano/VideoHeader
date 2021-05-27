@@ -21,9 +21,9 @@
     z-index: 2;
 }
 
-.showcase.active{
+/*.showcase.active{
     right: 300px;
-}
+}*/
 
 .showcase header {
     position: absolute;
